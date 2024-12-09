@@ -34,3 +34,4 @@ Para instalar todos los requerimientos de odoo17 aplicamos python install sobre 
 pip3 install -r /opt/odoo17/requirements.txt
 Salta un error que se corrige borrando el archivo externally-managed.
 rm /usr/lib/python3.12/EXTERNALLY-MANAGED
+wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox_0.12.5-1.bionic_amd64.deb  
