@@ -1,7 +1,6 @@
 # GuiaInstalacionOdoo
 ## Instalación Servidor Ubuntu
 En primer lugar lo primero será crear una maquina virtual donde poder instalar el sistema Odoo. Para ello crearemos un ubuntu server en Virtual Box.
-![alt text](image.png)
 Cuando termine la instalacion hacemos un update-upgrade del servidor para tener todos los paquetes actualizados y no tener problemas de compatibilidad mas adelante.
 
 Para todos los comandos a continuación he usado el superuser root por lo que no he escrito sudo previo a los comandos.
