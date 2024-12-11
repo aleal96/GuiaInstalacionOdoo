@@ -96,5 +96,5 @@ nano /etc/systemd/system/odoo16.service
    ![statusB](image-3.png)
    Ahora debido a que la conexión de la maquina virtual es NAT hago una redireccion de puertos a la maquina anfitriona.
    ![reenvio](image-5.png)
-   Tras esto conectamos al puerto correspiente y ¡Conexión! 
+   Tras esto conectamos al puerto correspondiente y ¡Conexión! 
    ![odoo](image-4.png)
